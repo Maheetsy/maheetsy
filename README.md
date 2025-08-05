@@ -41,15 +41,6 @@
 <table>
   <tr>
     <td>
-      <h3>🌐 Portafolio Personal</h3>
-      <p>Portfolio construido con Astro, React, TailwindCSS y TypeScript.</p>
-      <a href="https://github.com/Maheetsy/maheetsy.github.io">
-        🔗 Ver portafolio
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
       <h3>🛠 InventyIA</h3>
       <p>App móvil para gestión de materiales con Flutter, Flask y Firebase.</p>
       <a href="https://github.com/Maheetsy/inventyia">
@@ -59,18 +50,18 @@
   </tr>
   <tr>
     <td>
-      <h3>🎓 Gestión Escolar</h3>
-      <p>Proyecto de Arquitectura: sistema para la gestión escolar con ASP.NET, C#, JavaScript y SQL Server.</p>
-      <a href="https://github.com/Maheetsy/GestionEscolar">
+      <h3>🧾 Pockbit</h3>
+      <p>Mantenimiento del sistema POCKBIT. Proyecto realizado con JavaScript.</p>
+      <a href="https://github.com/Maheetsy/POCKBIT3">
         🔗 Ver repositorio
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <h3>🧾 Pockbit</h3>
-      <p>Mantenimiento del sistema POCKBIT. Proyecto realizado con JavaScript.</p>
-      <a href="https://github.com/Maheetsy/POCKBIT3">
+      <h3>🎓 Gestión Escolar</h3>
+      <p>Proyecto de Arquitectura: sistema para la gestión escolar con ASP.NET, C#, JavaScript y SQL Server.</p>
+      <a href="https://github.com/Maheetsy/GestionEscolar">
         🔗 Ver repositorio
       </a>
     </td>
