@@ -43,7 +43,7 @@
     <td>
       <h3>🛠 InventyIA</h3>
       <p>App móvil para gestión de materiales con Flutter, Flask y Firebase.</p>
-      <a href="https://github.com/Maheetsy/inventyia">
+      <a href="https://github.com/Maheetsy/inventyiaFlask">
         🔗 Ver repositorio
       </a>
     </td>
