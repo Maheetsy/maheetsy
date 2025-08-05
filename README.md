@@ -1,60 +1,80 @@
-<!-- Banner principal -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/147771696?v=4" width="120" height="120" alt="Mahetsi Avatar">
-</p>
+<h1 align="center">¡Hola! Soy Mahetsi Cruz 👩🏻‍💻</h1>
 
-<h1 align="center">¡Hola! Soy <span style="color:#00A1E4">Mahetsi Cruz</span> 👩🏻‍💻</h1>
-<h3 align="center">Estudiante de Ingeniería en Software · 8° Cuatrimestre · UPP</h3>
+<p align="center">
+  <strong>Estudiante de Ingeniería en Software · 8° Cuatrimestre · UPP</strong><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=maheetsy&show_icons=true&theme=radical&hide_title=true" alt="Mahetsi Stats" />
+</p>
 
 ---
 
 ### 🚀 Sobre mí
 
-✨ Apasionada por el desarrollo de software, la creación de interfaces atractivas y la implementación de soluciones funcionales tanto en **web** como en **móvil**. Me gusta construir proyectos desde cero y aprender nuevas herramientas constantemente.
+✨ Apasionada por el desarrollo de software, la creación de interfaces atractivas y la implementación de soluciones funcionales tanto en <strong>web</strong> como en <strong>móvil</strong>. Me gusta construir proyectos desde cero, trabajar en equipo y aprender nuevas herramientas constantemente.
 
 ---
 
 ### 🧰 Tecnologías que uso
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Basic-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
-### 📱 Proyectos destacados
+### 📌 Proyectos destacados
 
-#### 🛠 InventyIA
-> App móvil para gestión de materiales.  
-> 🔹 Flutter + Flask + Firebase  
-> 📸 *Imagen del prototipo*
-
-#### 🧮 Calculadora Web
-> Calculadora con operaciones avanzadas  
-> 🔹 HTML, CSS, JS  
-> 🔗 [Ver repositorio](https://github.com/Maheetsy/calculadora)
-
-#### 💸 POCKBIT
-> Mantenimiento y rediseño de plataforma de finanzas  
-> 🔹 JavaScript  
-> 🔗 [Ver repositorio](https://github.com/Maheetsy/POCKBIT3)
+<table>
+  <tr>
+    <td>
+      <h3>🎓 Gestión Escolar</h3>
+      <p>Proyecto de Arquitectura: sistema para la gestión escolar con ASP.NET, C#, JavaScript y SQL Server.</p>
+      <a href="https://github.com/Maheetsy/GestionEscolar">
+        🔗 Ver repositorio
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>🧾 Pockbit</h3>
+      <p>Mantenimiento del sistema POCKBIT. Proyecto realizado con JavaScript.</p>
+      <a href="https://github.com/Maheetsy/POCKBIT3">
+        🔗 Ver repositorio
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>🌐 Portafolio Personal</h3>
+      <p>Portfolio construido con Astro, React, TailwindCSS y TypeScript.</p>
+      <a href="https://github.com/Maheetsy/maheetsy.github.io">
+        🔗 Ver portafolio
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahetsi/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:maheetsy@gmail.com)
-[![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)](https://developers.google.com/profile/u/118365254703903760899)
+- 📍 Hidalgo, México
+- 💌 [LinkedIn](https://www.linkedin.com/in/tuusuario) (si tienes)
+- ✉️ Puedes escribirme directamente en GitHub o por correo si lo deseas compartir.
 
 ---
+
+> Gracias por visitar mi perfil 🥰 ¡Estoy siempre lista para aprender algo nuevo y colaborar en proyectos interesantes!
+
 
 <p align="center">Gracias por visitar mi perfil 🩵</p>
