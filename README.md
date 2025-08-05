@@ -37,6 +37,24 @@
 <table>
   <tr>
     <td>
+      <h3>🌐 Portafolio Personal</h3>
+      <p>Portfolio construido con Astro, React, TailwindCSS y TypeScript.</p>
+      <a href="https://github.com/Maheetsy/maheetsy.github.io">
+        🔗 Ver portafolio
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>🛠 InventyIA</h3>
+      <p>App móvil para gestión de materiales con Flutter, Flask y Firebase.</p>
+      <a href="https://github.com/Maheetsy/inventyia">
+        🔗 Ver repositorio
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <h3>🎓 Gestión Escolar</h3>
       <p>Proyecto de Arquitectura: sistema para la gestión escolar con ASP.NET, C#, JavaScript y SQL Server.</p>
       <a href="https://github.com/Maheetsy/GestionEscolar">
@@ -53,15 +71,6 @@
       </a>
     </td>
   </tr>
-  <tr>
-    <td>
-      <h3>🌐 Portafolio Personal</h3>
-      <p>Portfolio construido con Astro, React, TailwindCSS y TypeScript.</p>
-      <a href="https://github.com/Maheetsy/maheetsy.github.io">
-        🔗 Ver portafolio
-      </a>
-    </td>
-  </tr>
 </table>
 
 ---
@@ -72,9 +81,10 @@
 - 💌 [LinkedIn](https://www.linkedin.com/in/tuusuario) (si tienes)
 - ✉️ Puedes escribirme directamente en GitHub o por correo si lo deseas compartir.
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahetsi/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:maheetsy@gmail.com)
+[![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)](https://developers.google.com/profile/u/118365254703903760899)
+
 ---
 
-> Gracias por visitar mi perfil 🥰 ¡Estoy siempre lista para aprender algo nuevo y colaborar en proyectos interesantes!
-
-
-<p align="center">Gracias por visitar mi perfil 🩵</p>
+> Gracias por visitar mi perfil 🥰 ¡Estoy siempre lista para aprender algo nuevo y colaborar en proyectos interesantes!🩵
