@@ -3,6 +3,12 @@
 <p align="center">
   <strong>Estudiante de Ingeniería en Software · 8° Cuatrimestre · UPP</strong>
 </p>
+<p align="center">
+  <a href="https://maheetsy.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Ver%20Portafolio-00A1E4?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portafolio">
+  </a>
+</p>
+
 ---
 
 ### 🚀 Sobre mí
@@ -76,8 +82,8 @@
 ### 📫 Contacto
 
 - 📍 Hidalgo, México
-- 💌 [LinkedIn](https://www.linkedin.com/in/tuusuario) (si tienes)
-- ✉️ Puedes escribirme directamente en GitHub o por correo si lo deseas compartir.
+- 💌 [LinkedIn](https://www.linkedin.com/in/mahetsi/)
+- ✉️ Puedes escribirme directamente en GitHub o por correo si lo deseas.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahetsi/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:maheetsy@gmail.com)
