@@ -1,15 +1,13 @@
-<h1 align="center">¡Hola! Soy Mahetsi Cruz 👩🏻‍💻</h1>
+<h1 align="center">✨ Mahetsi Cruz ✨</h1>
 
 <p align="center">
-  <strong>Estudiante de Ingeniería en Software · 8° Cuatrimestre · UPP</strong><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=maheetsy&show_icons=true&theme=radical&hide_title=true" alt="Mahetsi Stats" />
+  <strong>Estudiante de Ingeniería en Software · 8° Cuatrimestre · UPP</strong>
 </p>
-
 ---
 
 ### 🚀 Sobre mí
 
-✨ Apasionada por el desarrollo de software, la creación de interfaces atractivas y la implementación de soluciones funcionales tanto en <strong>web</strong> como en <strong>móvil</strong>. Me gusta construir proyectos desde cero, trabajar en equipo y aprender nuevas herramientas constantemente.
+✨ Apasionada por el desarrollo de software, la creación de interfaces atractivas y la implementación de soluciones funcionales tanto en <strong>web</strong> como en <strong>móvil</strong>. Me gusta programar, trabajar en equipo y aprender nuevas herramientas constantemente.
 
 ---
 
